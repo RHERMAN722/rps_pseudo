@@ -1,4 +1,4 @@
-History= []
+history= []
 win=0
 #set loses variable to zero
 loses=0
